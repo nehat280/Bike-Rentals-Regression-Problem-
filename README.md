@@ -16,19 +16,19 @@ The workflow is as follows:
 
 5. Modelling
 
-  5.1. Linear Regression model without Regularization
-  
-  5.2. Regularization Models.
-  
-    5.2.1. Ridge Regression
-    
-    5.2.3. LASSO Regression
-    
-  5.3. Random Forest Regressor
-  
-  5.4. Gradient Boost Regressor
-  
- 
+    5.1. Linear Regression model without Regularization
+
+    5.2. Regularization Models.
+
+        5.2.1. Ridge Regression
+
+        5.2.3. LASSO Regression
+
+    5.3. Random Forest Regressor
+
+    5.4. Gradient Boost Regressor
+
+
 
 
 ## Metric:
